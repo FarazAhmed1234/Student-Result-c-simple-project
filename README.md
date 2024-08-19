@@ -1,1 +1,1 @@
-# Student-Result-c-simple-project
+Result Display
